@@ -1,1 +1,2 @@
-This is file 2 and im editing to create conflict
+This is file 2 and im editing to create conflict.
+this time it should show conflict
